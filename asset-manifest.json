@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-notes-app/static/css/main.7fb5aa67.chunk.css",
+    "main.js": "/react-notes-app/static/js/main.24ed62de.chunk.js",
+    "main.js.map": "/react-notes-app/static/js/main.24ed62de.chunk.js.map",
+    "runtime-main.js": "/react-notes-app/static/js/runtime-main.5be9d403.js",
+    "runtime-main.js.map": "/react-notes-app/static/js/runtime-main.5be9d403.js.map",
+    "static/js/2.eec74d34.chunk.js": "/react-notes-app/static/js/2.eec74d34.chunk.js",
+    "static/js/2.eec74d34.chunk.js.map": "/react-notes-app/static/js/2.eec74d34.chunk.js.map",
+    "index.html": "/react-notes-app/index.html",
+    "static/css/main.7fb5aa67.chunk.css.map": "/react-notes-app/static/css/main.7fb5aa67.chunk.css.map",
+    "static/js/2.eec74d34.chunk.js.LICENSE.txt": "/react-notes-app/static/js/2.eec74d34.chunk.js.LICENSE.txt",
+    "static/media/delete.c184eb9e.svg": "/react-notes-app/static/media/delete.c184eb9e.svg",
+    "static/media/plus.f5d4d283.png": "/react-notes-app/static/media/plus.f5d4d283.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5be9d403.js",
+    "static/js/2.eec74d34.chunk.js",
+    "static/css/main.7fb5aa67.chunk.css",
+    "static/js/main.24ed62de.chunk.js"
+  ]
+}
